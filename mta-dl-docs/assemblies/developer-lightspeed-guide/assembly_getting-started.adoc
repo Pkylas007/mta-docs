@@ -18,7 +18,13 @@ endif::[]
 [role="_abstract"]
 The Getting started section contains information to walk you through the prerequisites, persistent volume requirements, installation, and workflows that help you to decide how you want to use {mta-dl-full}.
 
+include::topics/developer-lightspeed/con_prerequisites.adoc[leveloffset=+1]
 
+include::topics/developer-lightspeed/con_persistent-volumes.adoc[leveloffset=+1]
+
+include::topics/developer-lightspeed/con_installation.adoc[leveloffset=+1]
+
+include::topics/developer-lightspeed/ref_example-code-suggestion.adoc[leveloffset=+1]
 
 ifdef::parent-context-of-getting-started[:context: {parent-context-of-getting-started}]
 ifndef::parent-context-of-getting-started[:!context:]
