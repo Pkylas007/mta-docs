@@ -4,7 +4,7 @@
 :_mod-docs-content-type: CONCEPT
 
 [id="llm-service-openshift-ai_{context}"]
-= Deploying an LLM as a service in {ocp-short} AI
+= Deploying an LLM as a service in {ocp-name} AI
 
 [role="_abstract"]
 The code suggestions from {mta-dl-full} differ based on the large language model (LLM) that you use. Therefore, you may want to use an LLM that caters to your specific requirements.
